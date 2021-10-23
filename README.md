@@ -4,4 +4,4 @@
 
 ### Feito com HTML, CSS e Javascript
 
-![Getting Started](./img/cracha.png)
+![Getting Started](./images/cracha.png)
