@@ -1,6 +1,6 @@
 const linksSocialMedia = {
+  linkedin: "in/cleberfontineledesouza",
   github: "CleberFontinele",
-  linkedin: "cleberfontineledesouza",
   facebook: "cleberfontinele",
   instagram: "cleberfontinele",
 }
